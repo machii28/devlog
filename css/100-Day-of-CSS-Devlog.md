@@ -40,3 +40,16 @@ Recreated the scenery adding a new colors creating a scene of dawn to dusk.
 * Code : https://codepen.io/machii28/details/RwbzoZZ
 
 > **Take away**: I've learned more about the principles of animation. I've also learn the usage of a clip-path
+
+### Day 4: Loading
+> October 1, 2019
+
+Creating a loader using pure css
+
+* Reference : https://codepen.io/roydigerhund/pen/yeQZLm
+
+Explore some functions for scss
+
+* Code : https://codepen.io/machii28/details/ExYBrKB
+
+> **Take away**: I've learned that scss is like a programming language that has some functions to help you create your style.
