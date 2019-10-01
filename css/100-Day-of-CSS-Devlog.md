@@ -24,7 +24,7 @@ Creating a menu icon
 
 Used a vanilla js then implementing the use of jquery.
 
-* COde : https://codepen.io/machii28/pen/eYOaBrp
+* Code : https://codepen.io/machii28/details/eYOaBrp
 
 > **Take away**: I've learned the usage of animation, unfortunately I'm still confused how animation works
 
@@ -36,5 +36,7 @@ Creating a pyramid with a shadow that changes location along with the sun
 * Reference : https://codepen.io/roydigerhund/pen/PZxpKO
 
 Recreated the scenery adding a new colors creating a scene of dawn to dusk.
+
+* Code : https://codepen.io/machii28/details/RwbzoZZ
 
 > **Take away**: I've learned more about the principles of animation. I've also learn the usage of a clip-path
