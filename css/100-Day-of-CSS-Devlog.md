@@ -53,3 +53,16 @@ Explore some functions for scss
 * Code : https://codepen.io/machii28/details/ExYBrKB
 
 > **Take away**: I've learned that scss is like a programming language that has some functions to help you create your style.
+
+### Day 5: Statistics
+> October 4, 2019
+
+Creating a graph using svg polyline
+
+* Reference : https://codepen.io/roydigerhund/pen/GoPvNN?editors=1100
+
+No changes implemented (Understang thoroughly the use of polyline)
+
+* Code : https://codepen.io/machii28/details/gOOYgJZ
+
+> **Take away**: I've learned other sass functions, I've also leartned that beside clippath theres a polyline when creating new shapes.
