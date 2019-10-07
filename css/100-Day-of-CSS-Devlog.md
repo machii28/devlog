@@ -66,3 +66,16 @@ No changes implemented (Understang thoroughly the use of polyline)
 * Code : https://codepen.io/machii28/details/gOOYgJZ
 
 > **Take away**: I've learned other sass functions, I've also leartned that beside clippath theres a polyline when creating new shapes.
+
+### Day 6: Profile
+> October 7, 2019
+
+Creating a profile layout
+
+* Reference : https://codepen.io/roydigerhund/pen/OMreoV
+
+Changes the layout of the profile. I've looked on [Dribble](https://dribbble.com) for reference of a new profile [layout](https://dribbble.com/shots/2595904-Profiles-Snow-UI-Kit-Preview/attachments/517083).
+
+* Code : https://codepen.io/machii28/details/zYYxvrX
+
+> **Take away**: I've understood more on how the positioning works how a transition affects the feel of the layout.
